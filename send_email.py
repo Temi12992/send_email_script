@@ -2,9 +2,9 @@ import smtplib
 from email.mime.text import MIMEText
 
 # Email details
-sender_email = "12killlerxff@gmail.com"
-receiver_email = "eonsyntax@gmail.com"  # change to who you want to message
-password = "uwcfvftrqiuruwad"  # replace with the Gmail App Password (not your normal password)
+sender_email = "garar9774@gmail.com"
+password = "rhbw psea vzve jzvt"
+receiver_email = "lateefayodele123@gmail.com" # replace with the Gmail App Password (not your normal password)
 
 # Email content
 subject = "Automated Message"
